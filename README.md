@@ -10,4 +10,4 @@ CentOSでApache立てて、Hello World表示しました。
 4. HTML作成: `/var/www/html/index.html`にHello World書いた
 
 ## Apache構築のスクショ
-![Apacheテストページ](images/スクリーンショット2025-04-17234112.png)
+![Apacheテストページ](images/screenshot1.png)
