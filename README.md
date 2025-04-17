@@ -11,3 +11,4 @@ CentOSでApache立てて、Hello World表示しました。
 
 ## Apache構築のスクショ
 ![Apacheテストページ](images/screenshot1.png)
+![Apacheテストページ](images/screenshot2.png)
